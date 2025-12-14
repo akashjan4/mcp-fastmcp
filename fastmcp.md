@@ -1,5 +1,7 @@
 # FastMCP – Detailed Documentation
 
+# Author: Akash Rastogi
+
 ## 1. Introduction
 
 **FastMCP** is a Python framework for building **MCP (Model Context Protocol) servers** quickly and cleanly. It provides a FastAPI-like developer experience to expose:
